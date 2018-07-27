@@ -1,6 +1,7 @@
 # GymHelper
 
 Use OpenPose by CMU to get human pose and help with gym.
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 2018/7/27:
 Push the first crude model using angle to get whether a person is doing push-up right.
